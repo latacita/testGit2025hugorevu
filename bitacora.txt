@@ -39,3 +39,9 @@
 22     Volver a la ramaC
 23     Hacer stash apply para recuperar los datos y
        add + commit Paso 23
+24     Volver a la rama Master
+25     Haria la fusion de manera recursiva
+26     fusiono la ramaD en Master                          no ha habido conflictos
+27     fusiono la ramaC en Master                          no ha habido conflictos
+28     Etiqueto la master como Conseguido
+29     add + commit Paso 29
