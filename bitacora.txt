@@ -19,4 +19,12 @@
 10     editar archivo direccion.txt
        y poner Cantabria como Provincia.
 11     add + commit Paso 11
-
+12     moverse a rama Master
+13     fusionar la ramaA en la rama Master    Se ha realizado la fusion de manera recursiva
+                                              No ha habido conflictos  
+14     fusionar la ramaB en la rama Master    Se ha realizado la fusion de manera recursiva
+                                              Da conflictos en la ultima linea, ya que las provincias
+                                              eran distinas, se resuelve el conflicto poniendo Cantabria.
+        add + commit despues de solucionar
+        el conflicto
+15     add + commit Paso 15
