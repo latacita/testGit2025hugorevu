@@ -9,3 +9,9 @@
 01     clonar el repositorio
 02     Anadir nombre y Apellidos
 03     add + commit Paso 3
+04     crear la rama RamaA
+05     crear la rama RamaB
+06     moverse a la RamaA
+07     Editar archivo direccion.txt 
+       y poner en provincia Santander.
+08     add + commit Paso 08
