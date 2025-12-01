@@ -1,8 +1,11 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre): Revuelta Aja, Hugo                   %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+01     clonar el repositorio
+02     Anadir nombre y Apellidos
+03     add + commit Paso 3
