@@ -28,3 +28,14 @@
         add + commit despues de solucionar
         el conflicto
 15     add + commit Paso 15
+16     crear la ramaC
+17     desplazarse a la ramaC
+18     Editar direccion.txt con una nueva linea de CP2
+19     crear la ramaD y hacer push al repositorio remoto
+       y desplazarse a la ramaD, haciendo antes stash en
+       la ramaC para no perder los cambios.
+20     Crear calificacion.txt y poner la nota que merezco
+21     add + commit Paso 21 solo de calificacion.txt
+22     Volver a la ramaC
+23     Hacer stash apply para recuperar los datos y
+       add + commit Paso 23
