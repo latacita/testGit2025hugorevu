@@ -9,3 +9,7 @@
 01     clonar el repositorio
 02     Anadir nombre y Apellidos
 03     add + commit Paso 3
+09     desplazarse a la RamaB
+10     editar archivo direccion.txt
+       y poner Cantabria como Provincia.
+11     add + commit Paso 11
